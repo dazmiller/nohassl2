@@ -1,0 +1,10 @@
+email: dazmiller@gmail.com
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+fullname: 'Darren Miller'
+title: Mr
+hashed_password: $2y$10$PNR6mrb0YcV8URAWZZSdrOOzulHJr5p8nZP9xXviKAOjSt9cA/cMS
